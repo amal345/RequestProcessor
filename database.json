@@ -1,0 +1,11 @@
+{
+    "dev": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "default",
+    "host": "localhost",
+    "database": "Provisioning_Test",
+    "port": "5432",
+    "schema": "public"
+}
+}
